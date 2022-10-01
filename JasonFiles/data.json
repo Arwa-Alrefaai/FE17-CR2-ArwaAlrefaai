@@ -1,0 +1,58 @@
+var data =  `[
+    {
+        "taskName": "shopping",
+        "image": "img/lap.jpg",
+        "description": "Shop for weekly groceries at Billa and Hofer.",
+        "importance": "2"
+    },
+    {
+        "taskName": "cooking",
+        "image": "img/kids.jpg",
+        "description": "Cook for the party .",
+        "importance": 5
+    } ,{
+        "taskName": "Celebration",
+        "image": "img/doctor.jpg",
+        "description": "Go to the party and enjoy it.",
+        "importance": 10
+    },
+    {
+        "taskName": "Appointment",
+        "image": "img/kids.jpg",
+        "description": "Go to tehe doctor appointment.",
+        "importance": 0
+    },{
+        "taskName": "facere",
+        "image": "img/lap.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+        "importance": 1
+    },
+    {
+        "taskName": "eveniet",
+        "image": "img/shoop.jpg",
+        "description": "sint totam voluptas? Quasi vel non nam at optio deserunt ea, incidunt, .",
+        "importance": 3
+    },{
+        "taskName": "Necessitatibus",
+        "image": "img/party.jpg",
+        "description": "placeat et voluptatem quod aliquam explicabo.",
+        "importance": 0
+    },
+    {
+        "taskName": "adipisci",
+        "image": "img/lap.jpg",
+        "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "importance": 0
+    },{
+        "taskName": "praesentium",
+        "image": "img/shoop.jpg",
+        "description": "fugit ullam fuga officiis ipsam exercitationem maxime ab nam ",
+        "importance": 4
+    },
+    {
+        "taskName": "consectetur",
+        "image": "img/party.jpg",
+        "description": "  Porro eveniet rerum at  et quasi ut repudiandae delectus esse,",
+        "importance": 6
+    }
+]`;

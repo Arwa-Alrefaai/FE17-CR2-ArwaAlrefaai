@@ -1,0 +1,90 @@
+.head1 {
+  color: rgb(157, 159, 159);
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  font-size: small;
+  display: flex;
+  /* align-items:left; */
+  text-decoration: none;
+  margin-bottom: 0px;
+}
+
+.planer {
+  color: white;
+  font-size: medium;
+  margin-left: 90px;
+  margin-top: 10px;
+}
+
+.home {
+  margin-left: 90px;
+  margin-top: 10px;
+}
+
+.headfoto {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 90px;
+}
+
+.headfoto img {
+  margin-top: 0px;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  margin-bottom: 0px;
+  height: 100px;
+}
+
+#tasks {
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.sign {
+  margin-left: 30%;
+  background-color: black;
+}
+
+.subs {
+  width: 300px;
+}
+
+.subs1 {
+  width: 150px;
+  background-color: rgb(51, 48, 48);
+  color: white;
+  border-left-style: double;
+  border: 30px;
+  border-color: white;
+}
+
+.content {
+  border: 2px solid gray;
+}
+
+#prio {
+  width: 50%;
+  height: 50%;
+  margintop: 0px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yelow {
+  background-color: yellow;
+}/*# sourceMappingURL=style.css.map */
